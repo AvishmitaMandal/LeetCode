@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AvishmitaMandal/LeetCode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/AvishmitaMandal/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvishmitaMandal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,3 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvishmitaMandal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+# Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/AvishmitaMandal/LeetCode/tree/master/0031-next-permutation) |
