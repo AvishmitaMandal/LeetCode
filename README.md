@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvishmitaMandal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0792-binary-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/AvishmitaMandal/LeetCode/tree/master/0907-koko-eating-bananas) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AvishmitaMandal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/AvishmitaMandal/LeetCode/tree/master/0907-koko-eating-bananas) |
 # Recursion
 |  |
 | ------- |
