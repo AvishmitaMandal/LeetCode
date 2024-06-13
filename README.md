@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AvishmitaMandal/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/AvishmitaMandal/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AvishmitaMandal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AvishmitaMandal/LeetCode/tree/master/0056-merge-intervals) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AvishmitaMandal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0792-binary-search) |
