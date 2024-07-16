@@ -114,4 +114,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AvishmitaMandal/LeetCode/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AvishmitaMandal/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AvishmitaMandal/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
