@@ -93,12 +93,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
