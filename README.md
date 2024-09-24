@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/AvishmitaMandal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 ## Iterator
 |  |
 | ------- |
@@ -246,4 +250,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
