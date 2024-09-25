@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
+| [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
+| [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Iterator
 |  |
 | ------- |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
+| [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -264,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/AvishmitaMandal/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 <!---LeetCode Topics End-->
