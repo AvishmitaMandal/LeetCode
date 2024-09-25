@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/AvishmitaMandal/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
@@ -257,5 +258,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/AvishmitaMandal/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AvishmitaMandal/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
