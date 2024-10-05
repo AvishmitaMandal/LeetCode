@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
 |  |
@@ -331,4 +332,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 <!---LeetCode Topics End-->
