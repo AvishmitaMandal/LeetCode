@@ -142,11 +142,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AvishmitaMandal/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AvishmitaMandal/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Combinatorics
 |  |
@@ -333,4 +335,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
