@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AvishmitaMandal/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/AvishmitaMandal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AvishmitaMandal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AvishmitaMandal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AvishmitaMandal/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AvishmitaMandal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Doubly-Linked List
@@ -347,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
