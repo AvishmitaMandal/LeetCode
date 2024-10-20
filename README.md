@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AvishmitaMandal/LeetCode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/AvishmitaMandal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/AvishmitaMandal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/AvishmitaMandal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Doubly-Linked List
