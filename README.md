@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/AvishmitaMandal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/AvishmitaMandal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvishmitaMandal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/AvishmitaMandal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
@@ -392,4 +394,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvishmitaMandal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AvishmitaMandal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
