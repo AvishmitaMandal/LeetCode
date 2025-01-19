@@ -1,25 +1,24 @@
-import heapq as hq
+# unpacking iterables in python
 
-class Solution(object):
-    def kClosest(self, points, k):
-        """
-        :type points: List[List[int]]
-        :type k: int
-        :rtype: List[List[int]]
-        """
+import heapq
 
-        heap = []
-        hq.heapify(heap)
+class Solution:
+    def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
+        euc_dist = []
+        heapq.heapify(euc_dist)
 
         for point in points:
-            dist_org = (abs(point[0]) * abs(point[0])) + (abs(point[1]) * abs(point[1]))
-            hq.heappush(heap,[dist_org, point])
-
+            x, y = point[0], point[1]
+            ed = x*x + y*y
+            heapq.heappush(euc_dist, (ed, point))
+        
         res = []
-        for x in range(k):
-            point = hq.heappop(heap)
-            res.append(point[1])
+        while k:
+            (ed, point) = heapq.heappop(euc_dist)
+            res.append(point)
+            k-=1
 
         return res
+
 
         
