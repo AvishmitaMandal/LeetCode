@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
+| [1813-maximum-erasure-value](https://github.com/AvishmitaMandal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
+| [1813-maximum-erasure-value](https://github.com/AvishmitaMandal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Divide and Conquer
 |  |
@@ -410,4 +412,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/AvishmitaMandal/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/AvishmitaMandal/LeetCode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
