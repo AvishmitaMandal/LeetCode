@@ -10,14 +10,12 @@ class Solution:
 
         heap = []
         for key, val in frequency.items():
-            heapq.heappush(heap, (-1*val, key))
+            heapq.heappush(heap, (-val, key))
 
-        res = ''
+        res = []
         while heap:
             val, key = heapq.heappop(heap)
-            val *= -1
-            for x in range(val):
-                res += key
+            res.append(key*-val)
 
-        return res
+        return ''.join(res)
         
