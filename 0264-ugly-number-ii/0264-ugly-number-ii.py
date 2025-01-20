@@ -8,25 +8,22 @@ class Solution:
         1, 2, 3, 4, 5, 6, 8, 9
         '''
 
-        hashmap = {}
+        seen = set()
         heap = []
-        ugly_list = []
 
         heapq.heappush(heap, 1)
-        hashmap[1] = 1
+        seen.add(1)
+        primes = [2, 3, 5]
+        min_ele = 0
 
-        while len(ugly_list) <= n:
+        for _ in range(n):
             min_ele = heapq.heappop(heap)
-            ugly_list.append(min_ele)
-            if 2 * min_ele not in hashmap:
-                heapq.heappush(heap, min_ele*2)
-                hashmap[2 * min_ele] = 1
-            if 3 * min_ele not in hashmap:
-                heapq.heappush(heap, min_ele*3)
-                hashmap[3 * min_ele] = 1
-            if 5 * min_ele not in hashmap:
-                heapq.heappush(heap, min_ele*5)
-                hashmap[5 * min_ele] = 1
-        print(ugly_list)
-        return ugly_list[n-1]
+            for prime in primes:
+                next_ugly = prime * min_ele
+                if next_ugly not in seen:
+                    heapq.heappush(heap, next_ugly)
+                    seen.add(next_ugly)
+
+
+        return min_ele
         
