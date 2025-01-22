@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/AvishmitaMandal/LeetCode/tree/master/0729-my-calendar-i) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1046-max-consecutive-ones-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/AvishmitaMandal/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/AvishmitaMandal/LeetCode/tree/master/0729-my-calendar-i) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/AvishmitaMandal/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
@@ -379,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/AvishmitaMandal/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
@@ -412,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AvishmitaMandal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
