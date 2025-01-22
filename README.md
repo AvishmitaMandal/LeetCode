@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/AvishmitaMandal/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AvishmitaMandal/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
 | ------- |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1321-get-equal-substrings-within-budget](https://github.com/AvishmitaMandal/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AvishmitaMandal/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Hash Function
 |  |
 | ------- |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/AvishmitaMandal/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AvishmitaMandal/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Backtracking
 |  |
 | ------- |
@@ -458,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/AvishmitaMandal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AvishmitaMandal/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Bucket Sort
 |  |
 | ------- |
