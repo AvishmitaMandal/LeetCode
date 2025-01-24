@@ -10,6 +10,8 @@ class Solution:
 
         i = 0
         res = 1
+        fact_hashmap = defaultdict(int)
+
         while i < len(s):
             hashmap = defaultdict(int)
             word_len = 0
@@ -18,9 +20,15 @@ class Solution:
                 word_len += 1
                 i += 1
 
-            res *= math.factorial(word_len)
+            if word_len not in fact_hashmap:
+                fact_hashmap[word_len] = math.factorial(word_len)
+                
+            res *= fact_hashmap[word_len] % MOD
+
             for key, val in hashmap.items():
-                res *= pow(math.factorial(val), MOD-2, MOD)
+                if val not in fact_hashmap:
+                    fact_hashmap[val] = math.factorial(val)
+                res *= pow(fact_hashmap[val], MOD-2, MOD)
             i += 1
 
         return res % MOD
