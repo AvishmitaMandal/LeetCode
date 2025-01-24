@@ -20,8 +20,7 @@ class Solution:
 
             res *= math.factorial(word_len)
             for key, val in hashmap.items():
-                res //= math.factorial(val)
-                res = res
+                res *= pow(math.factorial(val), MOD-2, MOD)
             i += 1
 
         return res % MOD
