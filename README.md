@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/AvishmitaMandal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0244-shortest-word-distance-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0244-shortest-word-distance-ii) |
+| [0277-find-the-celebrity](https://github.com/AvishmitaMandal/LeetCode/tree/master/0277-find-the-celebrity) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AvishmitaMandal/LeetCode/tree/master/0133-clone-graph) |
+| [0277-find-the-celebrity](https://github.com/AvishmitaMandal/LeetCode/tree/master/0277-find-the-celebrity) |
 ## Sliding Window
 |  |
 | ------- |
@@ -531,5 +533,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Interactive
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/AvishmitaMandal/LeetCode/tree/master/0277-find-the-celebrity) |
 | [0278-first-bad-version](https://github.com/AvishmitaMandal/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
