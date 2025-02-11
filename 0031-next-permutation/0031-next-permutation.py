@@ -1,51 +1,37 @@
 class Solution:
-    # method for swapping 2 numbers
-    def swap(self, nums, first, second):
-        temp = nums[first]
-        nums[first] = nums[second]
-        nums[second] = temp
+    def swap(self, nums, i, j):
+        temp = nums[i]
+        nums[i] = nums[j]
+        nums[j] = temp
+
+        return
 
     def nextPermutation(self, nums: List[int]) -> None:
-        # len = 1
-        if len(nums) == 1:
-            return nums
-
-        # asc case
+        """
+        Do not return anything, modify nums in-place instead.
+        """
         n = len(nums)
+        if n == 1:
+            return nums
+            
         if nums[n-1] > nums[n-2]:
             self.swap(nums, n-1, n-2)
-            print(nums)
-
-        # desc case - non-increasing
         else:
-            left = n-2
-            right = n-1
-
-            while nums[left] >= nums[right]:
-                if left == 0:
-                    left = -1
-                    break
-                left -= 1
-                right -= 1
-            left += 1
-            print(left)
-
-            start, end = left, n-1
-            while start < end:
-                self.swap(nums, start, end)
-                start += 1
-                end -= 1
-            print(nums)
-            # exists a pivot element
-            if left != 0:
-                p = left - 1
-                x = p + 1
-                while x < n and nums[x] <= nums[p]:
-                    x += 1
-                self.swap(nums, x, p)
-
-
-
-
-
+            x = n-1
+            while x >= 0 and nums[x] <= nums[x-1]:
+                x -= 1
             
+            # reverse
+            i, j = x, n-1
+            while i <= j:
+                self.swap(nums, i, j)
+                i += 1
+                j -= 1
+
+            for y in range(x, n):
+                if nums[x-1] < nums[y]:
+                    self.swap(nums, x-1, y)
+                    break
+            
+        return nums
+        
