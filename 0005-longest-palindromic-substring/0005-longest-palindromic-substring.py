@@ -17,7 +17,7 @@ class Solution:
                 substr_len = end - start + 1
                 if substr_len > max_len:
                     max_len = max(max_len, substr_len)
-                    res = s[start:end+1]
+                    res_start, res_end = start, end 
 
                 if start-1 >= 0 and end+1 < len(s) and s[start-1]==s[end+1]: 
                     if s[start]!= s[start-1]:
@@ -31,7 +31,7 @@ class Solution:
                 else:
                     break
 
-        return res
+        return s[res_start:res_end+1]
                 
 
 
