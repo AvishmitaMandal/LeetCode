@@ -1,4 +1,16 @@
 class Solution:
+    def backtrack_util(self, digits, ptr, mp, curr_str, res):
+        if ptr == len(digits):
+            res.append(curr_str)
+            return 
+
+        for c in mp[digits[ptr]]:
+            new_str = curr_str+c
+            self.backtrack_util(digits, ptr+1, mp, new_str, res)
+
+        return
+
+
     def letterCombinations(self, digits: str) -> List[str]:
         if len(digits) == 0:
             return []
@@ -15,17 +27,10 @@ class Solution:
         }
 
         res = []
+        ptr = 0
+        curr_str = ""
 
-        for c in digits:
-            c_map = mp[c]
-            new_res = []
-            if len(res) == 0:
-                new_res = c_map
-            else:
-                for char in c_map:
-                    for r in res:
-                        new_res.append(r+char)
+        self.backtrack_util(digits, ptr, mp, curr_str, res)
 
-            res = new_res
-        
         return res
+        
