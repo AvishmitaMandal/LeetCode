@@ -1,41 +1,31 @@
 class Solution:
-    def crossMultiplication(self, prev, curr):
-        res = []
-        for p in prev:
-            for c in curr:
-                st = p+c
-                res.append(st)
-
-        return res
-
     def letterCombinations(self, digits: str) -> List[str]:
-        
-        result = []
-        n = len(digits)
-        if n == 0:
-            return result
+        if len(digits) == 0:
+            return []
 
-        digitmap = {
-            '2': ['a', 'b', 'c'],
-            '3': ['d', 'e', 'f'],
-            '4': ['g', 'h', 'i'],
-            '5': ['j', 'k', 'l'],
-            '6': ['m', 'n', 'o'],
-            '7': ['p', 'q', 'r', 's'],
-            '8': ['t', 'u', 'v'],
-            '9': ['w', 'x', 'y', 'z']
+        mp = {
+            '2' : ['a', 'b', 'c'],
+            '3' : ['d', 'e', 'f'],
+            '4' : ['g', 'h', 'i'],
+            '5' : ['j', 'k', 'l'],
+            '6' : ['m', 'n', 'o'],
+            '7' : ['p', 'q', 'r', 's'],
+            '8' : ['t', 'u', 'v'],
+            '9' : ['w', 'x', 'y', 'z']
         }
 
-        prev = digitmap[digits[0]]
-        if n == 1:
-            return prev
+        res = []
 
-        for x in range(1, len(digits)):
-            curr = digitmap[digits[x]]
-            result = self.crossMultiplication(prev, curr)
-            prev = result
+        for c in digits:
+            c_map = mp[c]
+            new_res = []
+            if len(res) == 0:
+                new_res = c_map
+            else:
+                for char in c_map:
+                    for r in res:
+                        new_res.append(r+char)
 
-        return result
-
-
+            res = new_res
         
+        return res
