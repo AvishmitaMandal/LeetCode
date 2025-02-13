@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1119-robot-bounded-in-circle](https://github.com/AvishmitaMandal/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [2605-count-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/2605-count-anagrams) |
 ## Dynamic Programming
 |  |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0692-top-k-frequent-words](https://github.com/AvishmitaMandal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
+| [1119-robot-bounded-in-circle](https://github.com/AvishmitaMandal/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1321-get-equal-substrings-within-budget](https://github.com/AvishmitaMandal/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AvishmitaMandal/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1119-robot-bounded-in-circle](https://github.com/AvishmitaMandal/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Segment Tree
 |  |
