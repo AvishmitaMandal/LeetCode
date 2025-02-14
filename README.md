@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/AvishmitaMandal/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AvishmitaMandal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AvishmitaMandal/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AvishmitaMandal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/AvishmitaMandal/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AvishmitaMandal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AvishmitaMandal/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AvishmitaMandal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AvishmitaMandal/LeetCode/tree/master/0146-lru-cache) |
 | [0244-shortest-word-distance-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AvishmitaMandal/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AvishmitaMandal/LeetCode/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
