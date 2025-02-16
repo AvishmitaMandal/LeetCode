@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/AvishmitaMandal/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AvishmitaMandal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AvishmitaMandal/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AvishmitaMandal/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvishmitaMandal/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/AvishmitaMandal/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AvishmitaMandal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AvishmitaMandal/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AvishmitaMandal/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/AvishmitaMandal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AvishmitaMandal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AvishmitaMandal/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AvishmitaMandal/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/AvishmitaMandal/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -446,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AvishmitaMandal/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AvishmitaMandal/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AvishmitaMandal/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0729-my-calendar-i](https://github.com/AvishmitaMandal/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/AvishmitaMandal/LeetCode/tree/master/0969-number-of-recent-calls) |
@@ -594,4 +598,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AvishmitaMandal/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AvishmitaMandal/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
