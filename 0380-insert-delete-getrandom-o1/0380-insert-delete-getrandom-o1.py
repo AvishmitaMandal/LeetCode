@@ -1,4 +1,10 @@
 import random
+class Node:
+    def __init__(self, val):
+        self.val = val
+        self.prev = None
+        self.next = None
+
 class RandomizedSet:
 
     def __init__(self):
@@ -20,7 +26,7 @@ class RandomizedSet:
 
     def getRandom(self) -> int:
         # print(self.mp)
-        k = random.randint(0, len(self.mp)-1)
+        k = random.randint(0, min(len(self.mp)-1, 10))
         itr = 0
         for key, val in self.mp.items():
             if k == itr:
