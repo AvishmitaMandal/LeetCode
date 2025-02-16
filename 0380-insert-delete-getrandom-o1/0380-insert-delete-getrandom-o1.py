@@ -1,38 +1,49 @@
 import random
-class Node:
-    def __init__(self, val):
-        self.val = val
-        self.prev = None
-        self.next = None
 
 class RandomizedSet:
 
     def __init__(self):
         self.mp = {}
-        
+        self.array_list = []
+        self.count = 0
+
     def insert(self, val: int) -> bool:
         if val in self.mp:
             return False
 
-        self.mp[val] = 1
+        self.array_list.append(val)
+        self.count += 1
+        self.mp[val] = self.count - 1
         return True
         
     def remove(self, val: int) -> bool:
-        if val in self.mp:
-            del self.mp[val]
-            return True
+        if val not in self.mp:
+            return False
 
-        return False
+        del_ele_index = self.mp[val]
+        last_ele_index = self.count - 1
+
+        del_ele = self.array_list[del_ele_index]
+        last_ele = self.array_list[last_ele_index]
+        
+        # make changes in map
+        self.mp[last_ele] = del_ele_index
+        del self.mp[del_ele]
+
+        # make changes in list
+        self.array_list[del_ele_index] = last_ele
+        self.array_list.pop()
+
+        self.count -= 1
+        # print("Remove : ", val)
+        # print(self.array_list)
+        # print(self.mp)
+        return True
+        
 
     def getRandom(self) -> int:
-        # print(self.mp)
-        k = random.randint(0, min(len(self.mp)-1, 10))
-        itr = 0
-        for key, val in self.mp.items():
-            if k == itr:
-                return key
-            itr += 1
-        
+        k = random.randint(0,self.count-1)
+        return self.array_list[k]
 
 
 # Your RandomizedSet object will be instantiated and called as such:
