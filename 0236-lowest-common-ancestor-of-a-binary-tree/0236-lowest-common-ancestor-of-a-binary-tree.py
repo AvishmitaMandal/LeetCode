@@ -4,43 +4,42 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-from collections import deque;
-
+from collections import deque
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        par_map = {}
-        par_map[root] = None
-
+        INVALID = 10**9 + 1
+        mp = {}
+        mp[root] = TreeNode(INVALID)
         qu = deque()
         qu.append(root)
 
         while qu:
-            curr_node = qu.popleft()
-            if curr_node.left:
-                par_map[curr_node.left] = curr_node
-                qu.append(curr_node.left)
-            if curr_node.right:
-                par_map[curr_node.right] = curr_node
-                qu.append(curr_node.right)
+            for _ in range(len(qu)):
+                node = qu.pop()
+                if node.left:
+                    mp[node.left] = node
+                    qu.append(node.left)
+                if node.right:
+                    mp[node.right] = node
+                    qu.append(node.right)
 
-        q_list, p_list = [], []
-        
-        while q:
-            q_list.append(q)
-            q = par_map[q]
+        p_list, q_list = [], []
 
-        while p:
+        while p.val != INVALID:
             p_list.append(p)
-            p = par_map[p]
+            p = mp[p]
 
-        x, y = len(q_list)-1, len(p_list)-1
-        last_common_parent = None
+        while q.val != INVALID:
+            q_list.append(q)
+            q = mp[q]
 
-        while q_list[x] == p_list[y]:
-            last_common_parent = q_list[x]
-            x -= 1
-            y -= 1
+        lca_node = TreeNode(INVALID)
+        ptr1, ptr2 = len(p_list)-1, len(q_list)-1
 
-        return last_common_parent
+        while ptr1 >= 0 and ptr2 >= 0 and p_list[ptr1] == q_list[ptr2]:
+            lca_node = p_list[ptr1]
+            ptr1 -= 1
+            ptr2 -= 1
 
+        return lca_node
         
