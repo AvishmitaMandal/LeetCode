@@ -4,58 +4,42 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-
 from collections import deque
-
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        par_hash = {}
-        par_hash[root] = None
-        
+        INVALID = 10**9 + 1
+        mp = {}
+        mp[root] = TreeNode(INVALID)
         qu = deque()
         qu.append(root)
 
         while qu:
-            curr = qu.popleft()
+            for _ in range(len(qu)):
+                node = qu.pop()
+                if node.left:
+                    mp[node.left] = node
+                    qu.append(node.left)
+                if node.right:
+                    mp[node.right] = node
+                    qu.append(node.right)
 
-            if curr.left:
-                qu.append(curr.left)
-                par_hash[curr.left] = curr
+        p_list, q_list = [], []
 
-            if curr.right:
-                qu.append(curr.right)
-                par_hash[curr.right] = curr
+        while p.val != INVALID:
+            p_list.append(p)
+            p = mp[p]
 
-        p_list, q_list = [p], [q]
-        curr_p, curr_q = p, q
+        while q.val != INVALID:
+            q_list.append(q)
+            q = mp[q]
 
-        while True:
-            node = par_hash[curr_p]
-            if node is None:
-                break
-            else:
-                p_list.append(par_hash[curr_p])
-                curr_p = par_hash[curr_p]
+        lca_node = TreeNode(INVALID)
+        ptr1, ptr2 = len(p_list)-1, len(q_list)-1
 
-        while True:
-            node = par_hash[curr_q]
-            if node is None:
-                break
-            else:
-                q_list.append(par_hash[curr_q])
-                curr_q = par_hash[curr_q]
+        while ptr1 >= 0 and ptr2 >= 0 and p_list[ptr1] == q_list[ptr2]:
+            lca_node = p_list[ptr1]
+            ptr1 -= 1
+            ptr2 -= 1
 
-        temp_hash = {}
-
-        for n in p_list:
-            temp_hash[n] = 1
-
-        for m in q_list:
-            if m in temp_hash:
-                return m
-
-        return None
-
-
-
+        return lca_node
         
