@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0366-find-leaves-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0366-find-leaves-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvishmitaMandal/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0366-find-leaves-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
