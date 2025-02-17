@@ -8,31 +8,45 @@ from collections import deque
 
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        result = []
-
         if root == None:
-            return result
+            return []
         
+        level = 0
+        res = []
         q = deque()
         q.append(root)
-        level = 1
 
         while q:
-            temp = []
-            for x in range(len(q)):
-                curr = q.popleft()
-                temp.append(curr.val)
-
-                if curr.left:
-                    q.append(curr.left)
-                if curr.right:
-                    q.append(curr.right)
-
-            if level%2 == 0:
-                temp = reversed(temp)
-            result.append(temp)
             level += 1
+            temp = []
+            # odd level
+            if level % 2 == 1:
+                for _ in range(len(q)):
+                    curr_node = q.popleft()
+                    temp.append(curr_node.val)
 
-        return result
+                    if curr_node.left:
+                        q.append(curr_node.left)
+                    if curr_node.right:
+                        q.append(curr_node.right)
+            
+            if level % 2 == 0:
+                for _ in range(len(q)):
+                    curr_node = q.pop()
+                    temp.append(curr_node.val)
+
+                    if curr_node.right:
+                        q.appendleft(curr_node.right)
+                    if curr_node.left:
+                        q.appendleft(curr_node.left)
+
+            res.append(temp)
+
+        return res
+
+
+                
+
+
 
         
