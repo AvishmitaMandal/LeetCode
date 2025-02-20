@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0366-find-leaves-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/AvishmitaMandal/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvishmitaMandal/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AvishmitaMandal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0366-find-leaves-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
