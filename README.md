@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AvishmitaMandal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvishmitaMandal/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AvishmitaMandal/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvishmitaMandal/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/AvishmitaMandal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Graph
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/AvishmitaMandal/LeetCode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0277-find-the-celebrity](https://github.com/AvishmitaMandal/LeetCode/tree/master/0277-find-the-celebrity) |
 ## Sliding Window
 |  |
