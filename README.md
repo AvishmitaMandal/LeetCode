@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/AvishmitaMandal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/AvishmitaMandal/LeetCode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AvishmitaMandal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AvishmitaMandal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AvishmitaMandal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/AvishmitaMandal/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -381,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/AvishmitaMandal/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AvishmitaMandal/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AvishmitaMandal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -425,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0692-top-k-frequent-words](https://github.com/AvishmitaMandal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
 | [1119-robot-bounded-in-circle](https://github.com/AvishmitaMandal/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
@@ -569,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/AvishmitaMandal/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AvishmitaMandal/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
