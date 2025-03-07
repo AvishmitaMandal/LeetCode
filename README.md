@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/AvishmitaMandal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AvishmitaMandal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/AvishmitaMandal/LeetCode/tree/master/0729-my-calendar-i) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/AvishmitaMandal/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0494-target-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1211-iterator-for-combination](https://github.com/AvishmitaMandal/LeetCode/tree/master/1211-iterator-for-combination) |
 ## Design
 |  |
@@ -572,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AvishmitaMandal/LeetCode/tree/master/0139-word-break) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
@@ -633,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AvishmitaMandal/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -646,4 +651,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0210-course-schedule-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
