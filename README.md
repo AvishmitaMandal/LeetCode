@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AvishmitaMandal/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AvishmitaMandal/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/0049-group-anagrams) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AvishmitaMandal/LeetCode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0098-validate-binary-search-tree) |
