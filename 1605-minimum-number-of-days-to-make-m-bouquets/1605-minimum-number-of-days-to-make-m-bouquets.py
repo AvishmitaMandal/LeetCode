@@ -20,6 +20,9 @@ class Solution:
         low, high = 1, max(bloomDay)
         ans = 10**9+1
 
+        if m*k > len(bloomDay):
+            return -1
+
         while low <= high:
             mid = (low + high)//2
 
