@@ -1,44 +1,38 @@
-import math
-
 class Solution:
-    def isSufficient(self, mid, h, piles):
+    '''
+    piles = 3,6,7,11]
+    h = 8
+
+    low = 4
+    high = 3
+    mid = 4
+
+    time_taken = 1 + 2 + 2 + 3 = h
+    ans = 4
+
+    '''
+
+    def calculateTime(self, piles, k):
         res = 0
         for pile in piles:
-            res += math.ceil(pile/mid)   
+            res += ceil(pile/k)
 
-        if res <= h:
-            return True
-
-        return False
-
-    def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        len_piles = len(piles)
-
-        max_pile, min_pile, sum_piles = 0, 10**10, 0
-        for pile in piles:
-            max_pile = max(max_pile, pile)
-            min_pile = min(min_pile, pile)
-            sum_piles += pile
-
-        if h == len_piles:
-            return max_pile
-
-        if h >= sum_piles:
-            return 1
-
-        res = 0
-        start, end = 1, max_pile
-        while start <= end:
-            mid = (start + end)//2
-
-            if self.isSufficient(mid, h, piles):
-                res = mid
-                end = mid-1 
-            else:
-                start = mid+1
-        
         return res
 
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        n = len(piles)
+        low, high = 1, max(piles)
+        ans = high
 
+        while low <= high:
+            mid = (low + high)//2
+            time_taken = self.calculateTime(piles, mid)
 
+            if time_taken <= h:
+                high = mid - 1
+                ans = min(ans, mid)
+            else:
+                low = mid + 1
+
+        return ans
         
