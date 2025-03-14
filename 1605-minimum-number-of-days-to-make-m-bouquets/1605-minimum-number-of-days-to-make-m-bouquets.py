@@ -8,27 +8,15 @@ class Solution:
                 isBloom[x] = 1
 
         # num of k consequtive 1s
-        res = 0
-        start, end = 0, 0
-        while end < n:
-            if isBloom[start] == 0:
-                start += 1
-                end += 1
-                continue
-            if isBloom[end] == 0:
-                start = end
+        res, cnt = 0, 0
+        for x in range(n):
+            if isBloom[x] == 0:
+                res += (cnt//k)
+                cnt = 0
+            else:
+                cnt += 1
 
-            size = end - start + 1
-            if size == k:
-                res += 1
-                start = end + 1
-                end = start-1
-            end += 1
-
-        # print("day : ", day)
-        # print("isBloom : ", isBloom)
-        # print("res : ", res)
-
+        res += (cnt//k)
         return res
             
 
