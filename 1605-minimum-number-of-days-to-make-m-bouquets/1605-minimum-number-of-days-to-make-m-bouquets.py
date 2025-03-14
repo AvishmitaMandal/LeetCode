@@ -3,18 +3,13 @@ class Solution:
         n = len(bloomDay)
         isBloom = [0 for _ in range(n)]
 
-        for x in range(n):
-            if day >= bloomDay[x]:
-                isBloom[x] = 1
-
-        # num of k consequtive 1s
         res, cnt = 0, 0
         for x in range(n):
-            if isBloom[x] == 0:
+            if day >= bloomDay[x]:
+                cnt += 1
+            else:
                 res += (cnt//k)
                 cnt = 0
-            else:
-                cnt += 1
 
         res += (cnt//k)
         return res
