@@ -680,4 +680,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Database
+|  |
+| ------- |
+| [1154-product-sales-analysis-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1154-product-sales-analysis-ii) |
 <!---LeetCode Topics End-->
