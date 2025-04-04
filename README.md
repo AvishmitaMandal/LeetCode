@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/AvishmitaMandal/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AvishmitaMandal/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2605-count-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/2605-count-anagrams) |
 ## Dynamic Programming
 |  |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AvishmitaMandal/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Combinatorics
 |  |
 | ------- |
