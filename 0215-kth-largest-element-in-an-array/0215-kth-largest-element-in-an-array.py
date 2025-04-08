@@ -25,13 +25,9 @@ class Solution:
         '''
         hp = []
         for num in nums:
-            heapq.heappush(hp, -num)
+            heapq.heappush(hp, num)
+            if len(hp) > k:
+                heapq.heappop(hp)
 
-        while k:
-            if k == 1:
-                return -heapq.heappop(hp)
-            heapq.heappop(hp)
-            k -= 1
-
-        return -1
+        return hp[0]
             
