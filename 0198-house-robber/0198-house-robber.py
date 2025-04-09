@@ -1,12 +1,17 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        max_rob = []
-        max_rob.append(0)
-        max_rob.append(nums[0])
+        n = len(nums)
+        dp = [0] * n
+        dp[0] = nums[0]
 
-        for x in range(1, len(nums)):
-            opt_rob = max(nums[x] + max_rob[x-1], max_rob[x])
-            max_rob.append(opt_rob)
+        for x in range(1, n):
+            curr_steal = nums[x]
+            if x-2 >= 0:
+                curr_steal += dp[x-2]
 
-        return max_rob[len(max_rob)-1]
+            prev_steal = dp[x-1]
+            dp[x] = max(curr_steal, prev_steal)
+
+        return dp[n-1]
+
         
