@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AvishmitaMandal/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Combinatorics
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/AvishmitaMandal/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AvishmitaMandal/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
@@ -449,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## String Matching
