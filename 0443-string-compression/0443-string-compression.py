@@ -1,4 +1,17 @@
 class Solution:
+    def handleCount(self, count, chars, start):
+        count_list = []
+        while count >= 1:
+            count_list.append(count % 10)
+            count = count // 10
+
+        count_list.reverse()
+        for x in range(len(count_list)):
+            start += 1
+            chars[start] = str(count_list[x])
+
+        return start, chars
+
     def compress(self, chars: List[str]) -> int:
         start, end = 0, 0
         while end < len(chars):
@@ -8,30 +21,8 @@ class Solution:
                 # print(start, end)
                 end += 1
             count = end - start
-            if count >= 1000:
-                chars[start+1] = str(count//1000)
-                count = count % 1000
-                chars[start+2] = str(count//100)
-                count = count % 100
-                chars[start+3] = str(count//10)
-                count = count % 10
-                chars[start+4] = str(count)
-                start = start + 4
-            elif count >= 100:
-                chars[start+1] = str(count//100)
-                count = count % 100
-                chars[start+2] = str(count//10)
-                count = count % 10
-                chars[start+3] = str(count)
-                start = start + 3
-            elif count >= 10:
-                chars[start+1] = str(count//10)
-                count = count % 10
-                chars[start+2] = str(count)
-                start = start + 2
-            elif count > 1:
-                chars[start+1] = str(count)
-                start = start + 1
+            if count > 1:
+                start, chars = self.handleCount(count, chars, start)
             start += 1
             while start < len(chars) and chars[start] == curr:
                 del chars[start]
