@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AvishmitaMandal/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
 |  |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AvishmitaMandal/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -631,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
