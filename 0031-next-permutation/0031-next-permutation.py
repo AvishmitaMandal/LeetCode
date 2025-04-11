@@ -1,37 +1,49 @@
 class Solution:
-    def swap(self, nums, i, j):
+    def swap(self, i, j, nums):
         temp = nums[i]
         nums[i] = nums[j]
         nums[j] = temp
 
-        return
+    def reverse(self, nums, idx):
+        start, end = idx, len(nums)-1
+        while start < end:
+            self.swap(start, end, nums)
+            start += 1
+            end -= 1
+
+        return nums
 
     def nextPermutation(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        if n == 1:
-            return nums
-            
-        if nums[n-1] > nums[n-2]:
-            self.swap(nums, n-1, n-2)
-        else:
-            x = n-1
-            while x >= 0 and nums[x] <= nums[x-1]:
-                x -= 1
-            
-            # reverse
-            i, j = x, n-1
-            while i <= j:
-                self.swap(nums, i, j)
-                i += 1
-                j -= 1
+        pivot_idx = -1
+        for x in range(n-1, 0, -1):
+            if nums[x-1] < nums[x]:
+                pivot_idx = x
+                break
 
-            for y in range(x, n):
-                if nums[x-1] < nums[y]:
-                    self.swap(nums, x-1, y)
-                    break
-            
+        if pivot_idx == -1:
+            nums.reverse()
+            return nums
+
+        else:
+            nums = self.reverse(nums, pivot_idx)
+            temp_min = float("inf")
+            temp_min_index = -1
+            for x in range(pivot_idx, n):
+                if nums[x] > nums[pivot_idx-1]:
+                    if nums[x] < temp_min:
+                        temp_min = nums[x]
+                        temp_min_index = x
+            self.swap(temp_min_index, pivot_idx-1, nums)
+
         return nums
+
+
+
+
+
+
         
