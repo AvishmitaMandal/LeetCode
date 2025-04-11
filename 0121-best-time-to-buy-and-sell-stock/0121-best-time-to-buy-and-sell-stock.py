@@ -1,23 +1,16 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        if len(prices) == 1:
-            return 0
+        max_profit = -float("inf")
+        min_buy = float("inf")
 
-        start, end = prices[0], prices[0]
-        i = 1
-        max_profit = 0
+        n = len(prices)
+        for x in range(1,n):
+            min_buy = min(min_buy, prices[x-1])
+            max_profit = max(max_profit, prices[x]-min_buy)
 
-        while i < len(prices):
-            next_ele = prices[i]
+        if max_profit > 0:
+            return max_profit
+        return 0
+            
 
-            if next_ele < start:
-                start = next_ele
-                end = next_ele
-            elif next_ele > end:
-                end = next_ele
-
-            max_profit = max(max_profit, end-start)
-            i+=1
-
-        return max_profit
         
