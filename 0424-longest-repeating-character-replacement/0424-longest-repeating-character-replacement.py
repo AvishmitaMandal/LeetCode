@@ -1,40 +1,31 @@
-import heapq
-
+from collections import defaultdict
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         '''
-            ABCAAABCAABAC, k = 3
+        "AABABBA", k = 1
         '''
-        if len(s) == 0:
-            return 0
-
         start, end = 0, 0
-        maxLength = 1
-        hashmap = {}
-        highFreqChar, highFreqVal = '', 0
+        mp = defaultdict(int)
+        n = len(s)
 
-        while end < len(s):
-            if s[end] not in hashmap or hashmap[s[end]] == 0:
-                hashmap[s[end]] = 1
-            else:
-                hashmap[s[end]] += 1
+        max_freq = 0
+        res = 0
 
-            if hashmap[s[end]] > highFreqVal:
-                highFreqChar = s[end]
-                highFreqVal = hashmap[s[end]]
-                
-            length = end-start+1
-            if length - highFreqVal <= k:
-                maxLength = max(maxLength, length)
+        while end < n:
+            mp[s[end]] += 1
+            if mp[s[end]] > max_freq:
+                max_freq = mp[s[end]]
+            size = end - start + 1
+
+            operations_needed = size - max_freq
+            if operations_needed <= k:
+                res = max(res, size)
+                end += 1
+                continue
             else:
-                hashmap[s[start]] -= 1
+                mp[s[start]] -= 1
                 start += 1
 
             end += 1
 
-        return maxLength
-
-            
-
-        
-
+        return res
