@@ -1,30 +1,28 @@
 class Solution:
+    def swap(self, i, j, nums):
+        temp = nums[i]
+        nums[i] = nums[j]
+        nums[j] = temp 
+
+        return nums
+
     def sortColors(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
-        zeroes, ones, twos = 0, 0, 0
-        for num in nums:
-            if num == 0:
-                zeroes += 1
-            if num == 1:
-                ones += 1
-            if num == 2:
-                twos += 1
+        n = len(nums)
+        low, mid, high = 0, 0, n-1
 
-        x = 0
-        while zeroes:
-            nums[x] = 0
-            zeroes -= 1
-            x += 1
-    
-        while ones:
-            nums[x] = 1
-            ones -= 1
-            x += 1
+        while mid <= high:
+            if nums[mid] == 0:
+                nums = self.swap(low, mid, nums)
+                low += 1
+                mid += 1
+            elif nums[mid] == 1:
+                mid += 1
+            elif nums[mid] == 2:
+                nums = self.swap(mid, high, nums)
+                high -= 1
+            
 
-        while twos:
-            nums[x] = 2
-            twos -= 1
-            x += 1
         
