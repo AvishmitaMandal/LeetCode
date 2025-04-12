@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AvishmitaMandal/LeetCode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/AvishmitaMandal/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
+| [0854-making-a-large-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/AvishmitaMandal/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
+| [0854-making-a-large-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/AvishmitaMandal/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/AvishmitaMandal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -576,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/AvishmitaMandal/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AvishmitaMandal/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/AvishmitaMandal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1572-subrectangle-queries](https://github.com/AvishmitaMandal/LeetCode/tree/master/1572-subrectangle-queries) |
@@ -663,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/AvishmitaMandal/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AvishmitaMandal/LeetCode/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/AvishmitaMandal/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
