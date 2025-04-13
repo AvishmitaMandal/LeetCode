@@ -1,23 +1,29 @@
 class Solution:
-    def swap(self, x, y, matrix):
-        temp = matrix[x][y]
-        matrix[x][y] = matrix[y][x]
-        matrix[y][x] = temp
+    # def swap(self, x, y, matrix):
+    #     temp = matrix[x][y]
+    #     matrix[x][y] = matrix[y][x]
+    #     matrix[y][x] = temp
+
+    #     return matrix
 
     def rotate(self, matrix: List[List[int]]) -> None:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        m = len(matrix)
+        #  Symmetric inversion
+        n = len(matrix)
+        for x in range(n):
+            for y in range(x+1, n):
+                temp = matrix[x][y]
+                matrix[x][y] = matrix[y][x]
+                matrix[y][x] = temp
+                print(matrix)
+
+        #  Reverse each row
+        for x in range(n):
+            matrix[x].reverse()
+
+        return matrix
         
-        # Transpose in place
-        for x in range(m):
-            for y in range(x+1,m):
-                self.swap(x,y,matrix)
-
-        # Reverse
-        for x in range(m):
-            matrix[x] = reversed(matrix[x])
-
 
         
