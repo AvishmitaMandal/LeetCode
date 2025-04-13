@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AvishmitaMandal/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AvishmitaMandal/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/AvishmitaMandal/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AvishmitaMandal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AvishmitaMandal/LeetCode/tree/master/0056-merge-intervals) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AvishmitaMandal/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AvishmitaMandal/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AvishmitaMandal/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AvishmitaMandal/LeetCode/tree/master/0070-climbing-stairs) |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AvishmitaMandal/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AvishmitaMandal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
