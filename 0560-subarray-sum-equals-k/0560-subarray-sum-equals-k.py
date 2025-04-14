@@ -1,28 +1,28 @@
+from collections import defaultdict
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        prefix_hash = {}
-        prefix_sum = 0
+        n = len(nums)
+        mp = defaultdict(int)
+        prefix_sum = [0]
 
-        for x in range(len(nums)):
-            prefix_sum += nums[x]
-            if prefix_sum not in prefix_hash:
-                prefix_hash[prefix_sum] = [x]
-            else:
-                prefix_hash[prefix_sum].append(x)
+        total = 0
+        for x in range(n):
+            total += nums[x]
+            prefix_sum.append(total)
 
-        res = 0
-        if k in prefix_hash:
-            res += len(prefix_hash[k])
+        print(prefix_sum)
 
-        for key, val in prefix_hash.items():
-            if (key + k) in prefix_hash:
-                for i in prefix_hash[key]:
-                    for j in prefix_hash[key+k]:
-                        if i < j:
-                            res += 1
+        count = 0
+        for x in range(len(prefix_sum)):
+            if prefix_sum[x]-k in mp:
+                count += mp[prefix_sum[x]-k]
+            mp[prefix_sum[x]] += 1
 
-        return res
+        return count
 
         
+
+        
+
 
         
