@@ -1,22 +1,29 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         res = []
-        if numRows == 0:
+        n = numRows
+
+        level1 = [1]
+        res.append(level1)
+        if n == 1:
             return res
 
-        prev_list = [1]
-        res.append(prev_list)
+        level2 = [1,1]
+        res.append(level2)
+        if n == 2:
+            return res
 
-        k = 2
-        while k <= numRows:
-            new_list = []
-            new_list.append(1)
-            for x in range(1,k-1):
-                new_list.append(prev_list[x-1]+prev_list[x])
-            new_list.append(1)
-            res.append(new_list)
-            prev_list = new_list.copy()
-            k+=1
+        prev_level = level2
+        for x in range(3, n+1):
+            curr_level = [1]
+            for y in range(1, len(prev_level)):
+                curr_level.append(prev_level[y-1] + prev_level[y])
+            curr_level.append(1)
+            res.append(curr_level)
+            prev_level = curr_level
 
         return res
+
+            
+
         
