@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AvishmitaMandal/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AvishmitaMandal/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AvishmitaMandal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AvishmitaMandal/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/AvishmitaMandal/LeetCode/tree/master/0075-sort-colors) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AvishmitaMandal/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AvishmitaMandal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AvishmitaMandal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AvishmitaMandal/LeetCode/tree/master/0054-spiral-matrix) |
 | [1119-robot-bounded-in-circle](https://github.com/AvishmitaMandal/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvishmitaMandal/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
