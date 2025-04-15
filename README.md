@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvishmitaMandal/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AvishmitaMandal/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1813-maximum-erasure-value](https://github.com/AvishmitaMandal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AvishmitaMandal/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2605-count-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/2605-count-anagrams) |
 | [3516-design-neighbor-sum-service](https://github.com/AvishmitaMandal/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Divide and Conquer
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AvishmitaMandal/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AvishmitaMandal/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Combinatorics
 |  |
@@ -552,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AvishmitaMandal/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AvishmitaMandal/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
