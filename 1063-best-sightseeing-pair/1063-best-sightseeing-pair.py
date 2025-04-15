@@ -1,34 +1,14 @@
 class Solution:
     def maxScoreSightseeingPair(self, nums: List[int]) -> int:
-        n = len(nums)
-        start, end = [], []
-
         MIN = -float("inf")
-        end.append(MIN)
-        start.append(nums[0])
+        n = len(nums)
 
-        for x in range(1, n):
-            if x == n-1:
-                start.append(MIN)
-            else:
-                start.append(nums[x]+x)
-            end.append(nums[x]-x)
-
-        max_start_left = [MIN]
-        max_val = nums[0]
-
-        for x in range(1, n):
-            max_start_left.append(max_val)
-            max_val = max(max_val,start[x])
-
+        max_start = nums[0]
         res = MIN
-        for x in range(n):
-            res = max(res, max_start_left[x]+end[x])
+
+        for x in range(1, n):
+            res = max(res, max_start + nums[x]-x)
+            max_start = max(max_start, nums[x]+x)
 
         return res
-
-        
-
-
-
         
