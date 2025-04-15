@@ -1,11 +1,14 @@
-import math
-
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        ele1, ele2 = 10**10, 10**10
+        DUMMY_VAL = float("inf")
+        n = len(nums)
+        if n == 1:
+            return nums
+
+        ele1, ele2 = DUMMY_VAL, DUMMY_VAL
         count1, count2 = 0, 0
 
-        for x in range(0,len(nums)):
+        for x in range(n):
             if count1 == 0 and nums[x] != ele2:
                 ele1 = nums[x]
                 count1 = 1
@@ -20,22 +23,29 @@ class Solution:
                 count1 -= 1
                 count2 -= 1
 
-        res_list = []
-        
-        count1, count2 = 0, 0
-        for num in nums:
-            if num == ele1:
-                count1 += 1
-            elif num == ele2:
-                count2 += 1
+            
 
-        target = math.floor(len(nums)/3)
+        print(ele1, ele2)
 
-        if count1 > target:
-            res_list.append(ele1)
+        res = []
+        target = n//3
+        ele1_count, ele2_count = 0, 0
 
-        if count2 > target:
-            res_list.append(ele2)
+        # Check for ele1
+        for x in range(n):
+            if nums[x] == ele1:
+                ele1_count += 1
+            if nums[x] == ele2:
+                ele2_count += 1
+        print(target)
 
-        return res_list
+        if ele1_count > target:
+            res.append(ele1)
+        if ele2_count > target:
+            res.append(ele2)
+
+        return res
+
+                    
+
         
