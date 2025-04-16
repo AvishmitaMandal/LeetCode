@@ -1,44 +1,29 @@
 class Solution:
     def isOverlap(self, prev, curr):
-        if prev[1] >= curr[0]:
-            return True
-        return False
+        return prev[1] >= curr[0]
 
     def mergedInterval(self, prev, curr):
-        interval = []
-        interval.append(min(prev[0], curr[0]))
-        interval.append(max(prev[1], curr[1]))
-        return interval
-    
+        return [min(prev[0], curr[0]), max(prev[1], curr[1])]
+
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+        intervals.sort()
+        n = len(intervals)
 
-        '''
-        [[1,3],[2,6],[8,10],[15,18]]
-        '''
-
-        sorted_intervals = sorted(intervals)
-        result = []
-
-        prev_interval = sorted_intervals[0]
-        is_overlap = 0
-
-        for x in range(1, len(sorted_intervals)):
-            curr_interval = sorted_intervals[x]
-            is_overlap = self.isOverlap(prev_interval, curr_interval)
-            if is_overlap:
-                merged_interval = self.mergedInterval(prev_interval, curr_interval)
-                prev_interval = merged_interval
+        res = []
+        prev_interval = intervals[0]
+        for x in range(1, n):
+            curr_interval = intervals[x]
+            if self.isOverlap(prev_interval, curr_interval):
+                new_interval = self.mergedInterval(prev_interval, curr_interval)
+                prev_interval = new_interval
             else:
-                result.append(prev_interval)
+                res.append(prev_interval)
                 prev_interval = curr_interval
+        res.append(prev_interval)
 
-     
-        result.append(prev_interval)
+        return res
 
-        return result
-
-        
+            
 
 
-        
         
