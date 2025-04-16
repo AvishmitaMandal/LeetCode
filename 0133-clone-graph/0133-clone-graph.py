@@ -1,48 +1,45 @@
 """
 # Definition for a Node.
-class Node(object):
+class Node:
     def __init__(self, val = 0, neighbors = None):
         self.val = val
         self.neighbors = neighbors if neighbors is not None else []
 """
 
-class Solution(object):
-    def cloneGraph(self, node):
-        """
-        :type node: Node
-        :rtype: Node
-        """
+from typing import Optional
+from collections import deque
+class Solution:
+    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if node == None:
             return None
-        node_map = {}
+        
+        org_q = deque()
+        new_q = deque()
+
+        org_q.append(node)
         new_node = Node(node.val)
-        node_map[node.val] = new_node
+        new_q.append(new_node)
 
-        head = new_node
+        explored = set()
+        mp = {}
+        mp[new_node.val] = new_node
 
-        q = deque()
-        q.append(node)
-
-        while q:
-            curr = q.popleft()
-            if curr.val in node_map:
-                new_curr = node_map[curr.val] 
-            else:
-                new_curr = Node(curr.val)
-                node_map[curr.val] = new_curr
-
-            for neighbor in curr.neighbors:
-                if neighbor.val in node_map:
-                    new_neighbor = node_map[neighbor.val]
-                else:
+        while org_q:
+            org_curr = org_q.popleft()
+            new_curr = new_q.popleft()
+            explored.add(org_curr)
+            for neighbor in org_curr.neighbors:
+                if neighbor.val not in mp:
                     new_neighbor = Node(neighbor.val)
-                    node_map[neighbor.val] = new_neighbor
-                    q.append(neighbor)
-
+                    mp[new_neighbor.val] = new_neighbor
+                else:
+                    new_neighbor = mp[neighbor.val]
                 new_curr.neighbors.append(new_neighbor)
-
-        print(head)
-
-        return head
+                if neighbor not in explored:
+                    org_q.append(neighbor)
+                    new_q.append(new_neighbor)
+                    explored.add(neighbor)
+        
+        return new_node
 
         
