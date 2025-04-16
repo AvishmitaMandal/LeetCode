@@ -1,51 +1,55 @@
+from collections import deque
 class Solution:
-    def bfs(self, x, y, heights):
-        m,n = len(heights), len(heights[0])
-        top_right, bottom_left = (0,m-1), (n-1,0)
-        P_flag, A_flag = False, False
-        
-        q = deque()
-        q.append((x, y))
+    def isWithinBounds(self, x, y, m, n):
+        return x >= 0 and x < m and y >=0 and y < n
 
-        visited_set = set()
-        visited_set.add((x, y))
+    def bfsTraversal(self, heights, q, visited):
+        m, n = len(heights), len(heights[0])
+        directions = [(0,1), (0,-1), (1,0), (-1,0)]
 
-        directions = ((1,0), (-1,0), (0,1), (0,-1))
         while q:
-            cx, cy = q.popleft()
-            cord = (cx, cy)
-            if x == 0 and y == 13:
-                print(m)
-                print(n)
-            if cx == 0 or cy == 0:
-                P_flag = True
-            if cx == m-1 or cy == n-1:
-                A_flag = True
-            if P_flag and A_flag:
-                return True
-
+            curr_x, curr_y = q.popleft()
+            visited[curr_x][curr_y] = 1
             for dx, dy in directions:
-                nx, ny = cx+dx, cy+dy
-                if 0 <= nx < m and 0 <= ny <n and heights[cx][cy] >= heights[nx][ny] and (nx, ny) not in visited_set:
-                    visited_set.add((nx, ny))
-                    q.append((nx,ny))
-
-        return False
-
-
+                new_x, new_y = curr_x + dx, curr_y + dy
+                if self.isWithinBounds(new_x, new_y, m, n) and visited[new_x][new_y] == 0 and heights[new_x][new_y] >= heights[curr_x][curr_y]:
+                    q.append((new_x, new_y))
+                    visited[new_x][new_y] = 1
+        
+        return visited
 
 
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        m,n = len(heights), len(heights[0])
-        res = []
+        m, n = len(heights), len(heights[0])
 
+        q = deque()
+        visited_pacific = [[0 for _ in range(n)] for _ in range(m)]
+        for y in range(n):
+            q.append((0,y))
+            visited_pacific[0][y] = 1
+        for x in range(1, m):
+            q.append((x,0))
+            visited_pacific[x][0] = 1
+
+        visited_p = self.bfsTraversal(heights, q, visited_pacific)
+        print(visited_p)
+
+        q = deque()
+        visited_atlantic = [[0 for _ in range(n)] for _ in range(m)]
+        for y in range(n):
+            q.append((m-1,y))
+            visited_atlantic[m-1][y] = 1
+        for x in range(m-1):
+            q.append((x,n-1))
+            visited_atlantic[x][n-1] = 1
+
+        visited_atlantic = self.bfsTraversal(heights, q, visited_atlantic)
+
+        res = []
         for x in range(m):
             for y in range(n):
-                if self.bfs(x, y, heights):
-                    temp = []
-                    temp.append(x)
-                    temp.append(y)
-                    res.append(temp)
+                if visited_pacific[x][y] and visited_atlantic[x][y]:
+                    res.append([x,y])
 
         return res
         
