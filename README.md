@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/AvishmitaMandal/LeetCode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AvishmitaMandal/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1762-furthest-building-you-can-reach](https://github.com/AvishmitaMandal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
 | [1813-maximum-erasure-value](https://github.com/AvishmitaMandal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -676,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1762-furthest-building-you-can-reach](https://github.com/AvishmitaMandal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## Quickselect
 |  |
 | ------- |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/AvishmitaMandal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
+| [1762-furthest-building-you-can-reach](https://github.com/AvishmitaMandal/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AvishmitaMandal/LeetCode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
