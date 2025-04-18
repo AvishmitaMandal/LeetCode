@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvishmitaMandal/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AvishmitaMandal/LeetCode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AvishmitaMandal/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1775-design-an-ordered-stream](https://github.com/AvishmitaMandal/LeetCode/tree/master/1775-design-an-ordered-stream) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/AvishmitaMandal/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1813-maximum-erasure-value](https://github.com/AvishmitaMandal/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AvishmitaMandal/LeetCode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AvishmitaMandal/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2605-count-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/2605-count-anagrams) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/AvishmitaMandal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/AvishmitaMandal/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AvishmitaMandal/LeetCode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2605-count-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/2605-count-anagrams) |
 ## Math
 |  |
@@ -678,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AvishmitaMandal/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AvishmitaMandal/LeetCode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Memoization
 |  |
