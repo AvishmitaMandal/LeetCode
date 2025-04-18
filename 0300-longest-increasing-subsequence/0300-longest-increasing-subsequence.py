@@ -1,21 +1,19 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
+        seq = []
         n = len(nums)
-
-        dp = [0] * n
         for x in range(n):
-            dp[x] = 1
-            for y in range(x-1,-1,-1):
-                if nums[y] < nums[x]:
-                    dp[x] = max(dp[x], 1+dp[y])
-                    
+            if len(seq) == 0:
+                seq.append(nums[x])
+                continue
+            if nums[x] > seq[len(seq)-1]:
+                seq.append(nums[x])
+            else:
+                for y in range(len(seq)):
+                    if seq[y] >= nums[x]:
+                        seq[y] = nums[x]
+                        break
 
-        print(dp)
-
-        res = 0
-        for x in range(n):
-            res = max(res, dp[x])
-
-        return res
+        return len(seq)
             
         
