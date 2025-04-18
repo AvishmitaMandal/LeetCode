@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0244-shortest-word-distance-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0244-shortest-word-distance-ii) |
+| [0253-meeting-rooms-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AvishmitaMandal/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AvishmitaMandal/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0305-number-of-islands-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0305-number-of-islands-ii) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AvishmitaMandal/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0229-majority-element-ii) |
+| [0253-meeting-rooms-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AvishmitaMandal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AvishmitaMandal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AvishmitaMandal/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AvishmitaMandal/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/AvishmitaMandal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AvishmitaMandal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0244-shortest-word-distance-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0244-shortest-word-distance-ii) |
+| [0253-meeting-rooms-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0277-find-the-celebrity](https://github.com/AvishmitaMandal/LeetCode/tree/master/0277-find-the-celebrity) |
 | [0443-string-compression](https://github.com/AvishmitaMandal/LeetCode/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -660,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0264-ugly-number-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AvishmitaMandal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AvishmitaMandal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -679,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0253-meeting-rooms-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AvishmitaMandal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0621-task-scheduler](https://github.com/AvishmitaMandal/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AvishmitaMandal/LeetCode/tree/master/0778-reorganize-string) |
