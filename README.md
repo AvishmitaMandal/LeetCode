@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/AvishmitaMandal/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/AvishmitaMandal/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AvishmitaMandal/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AvishmitaMandal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AvishmitaMandal/LeetCode/tree/master/0118-pascals-triangle) |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvishmitaMandal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AvishmitaMandal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AvishmitaMandal/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AvishmitaMandal/LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/AvishmitaMandal/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/AvishmitaMandal/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AvishmitaMandal/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AvishmitaMandal/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -623,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AvishmitaMandal/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AvishmitaMandal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AvishmitaMandal/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/AvishmitaMandal/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AvishmitaMandal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AvishmitaMandal/LeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AvishmitaMandal/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
