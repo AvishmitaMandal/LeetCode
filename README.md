@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/AvishmitaMandal/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AvishmitaMandal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/AvishmitaMandal/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1585-the-kth-factor-of-n](https://github.com/AvishmitaMandal/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AvishmitaMandal/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/AvishmitaMandal/LeetCode/tree/master/2050-count-good-numbers) |
 | [2605-count-anagrams](https://github.com/AvishmitaMandal/LeetCode/tree/master/2605-count-anagrams) |
@@ -819,4 +820,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AvishmitaMandal/LeetCode/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/AvishmitaMandal/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
